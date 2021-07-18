@@ -3,14 +3,20 @@
 #### check out my pinned projects below for my more fully realised projects. 
 
 ### Here are some links to deployed versions of my projects: 
-
+<br/>
 [Vessel](https://the-vessel.herokuapp.com/)
 Web application that generates playing cards at random based on
-user uploads, with a simple forum for sharing rules. The currently deployed version is a prototype- I  am currently working on the styling and adding some more functionality. 
-![Vessel ScreenGrab](https://github.com/atrathbone/atrathbone/blob/main/Vessel-screengrab.PNG?raw=true){:height="50%" width="50%"}
-
+user uploads, with a simple forum for sharing rules. The currently deployed version is a prototype- I  am currently working on the styling and adding some more functionality.
+<img src="https://github.com/atrathbone/atrathbone/blob/main/Vessel-screengrab.PNG?raw=true" width="75%" height="75%"/>
+<br/>
+<br/>
+<br/>
 [TransiRent](https://transirent.herokuapp.com/)
 Appartment listing site with mapbox integration that I created with a team of two other developers.
-
+<img src="https://github.com/atrathbone/atrathbone/blob/main/TransiRent-screengrab.PNG?raw=true" width="75%" height="75%"/>
+<br/>
+<br/>
+<br/>
 [Ghost Hunt Meltdown](https://atrathbone.github.io/Ghost-Hunt-Meltdown/)
 Stealth game with easy level creation functionality. I hope to add a user level editor soon!
+<img src="https://github.com/atrathbone/atrathbone/blob/main/GHM-screengrab2.PNG?raw=true" width="50%" height="50%"/>

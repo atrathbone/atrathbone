@@ -1,2 +1,2 @@
-🤠 <(I am a Web Developer currently based in Berlin.) 
+🤠 <(I am a Web Developer based in Berlin.) 
 
